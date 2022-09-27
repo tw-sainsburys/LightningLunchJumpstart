@@ -1,0 +1,681 @@
+[
+  {
+    "productId": "8035712",
+    "brand": "Beyond Meat",
+    "name": "Beyond Meat Plant-Based Burger Patties x2 226g",
+    "description": "Plant-Based Burger Made from Pea-Protein, Defrosted",
+    "price": { "price": 5.0, "mealDeal": false }
+  },
+  {
+    "productId": "1320121",
+    "brand": "Sainsbury's",
+    "name": "Sainsbury's On the Go Cheddar, Red Leicester & Red Onion Sandwich",
+    "description": "Mayonnaise, medium mature Cheddar cheese, red Leicester cheese and red onion on oatmeal bread",
+    "price": { "price": 1.25, "mealDeal": true }
+  },
+  {
+    "productId": "7797628",
+    "brand": "Sainsbury's",
+    "name": "Sainsbury's Egg & Cress Sandwich",
+    "description": "Egg mayonnaise and cress on malted bread",
+    "price": { "price": 1.25, "mealDeal": true }
+  },
+  {
+    "productId": "7799121",
+    "brand": "Sainsbury's",
+    "name": "Sainsbury's Oakwood Smoked Ham & Cheddar Sandwich",
+    "description": "British oak smoked formed ham with added water, medium mature Cheddar cheese and mayonnaise on malted bread",
+    "price": { "price": 2.0, "mealDeal": true }
+  },
+  {
+    "productId": "7799020",
+    "brand": "Sainsbury's",
+    "name": "Sainsbury's Tuna Mayo Sandwich",
+    "description": "Tuna Mayonnaise on oatmeal bread",
+    "price": { "price": 1.25, "mealDeal": true }
+  },
+  {
+    "productId": "7798602",
+    "brand": "Sainsbury's",
+    "name": "Sainsbury's Red Leicester Ploughmans Sandwich",
+    "description": "Red Leicester cheese, tomato, Branston\u00ae small chunk pickle and lettuce on malted bread",
+    "price": { "price": 2.0, "mealDeal": false }
+  },
+  {
+    "productId": "8034568",
+    "brand": "Richmond",
+    "name": "Richmond Meat Free Vegan Burgers x2 170g",
+    "description": "Seasoned Meat-Free Burgers made with Rehydrated Textured Soya and Wheat Protein",
+    "price": { "price": 2.0, "mealDeal": true }
+  },
+  {
+    "productId": "7797564",
+    "brand": "Sainsbury's",
+    "name": "Sainsbury's Tuna & Sweetcorn Sandwich",
+    "description": "Tuna and sweetcorn with mayonnaise on malted bread",
+    "price": { "price": 1.9, "mealDeal": true }
+  },
+  {
+    "productId": "7798974",
+    "brand": "Sainsbury's",
+    "name": "Sainsbury's Bacon & Free Range Egg Sandwich",
+    "description": "Free range egg mayonnaise and maple cured smoked bacon on malted bread",
+    "price": { "price": 2.0, "mealDeal": true }
+  },
+  {
+    "productId": "2876740",
+    "brand": "Coca-Cola",
+    "name": "Diet Coke 500ml",
+    "description": "Sparkling Low Calorie Soft Drink with Plant Extracts with Sweeteners",
+    "price": { "price": 1.45, "mealDeal": false }
+  },
+  {
+    "productId": "7553100",
+    "brand": "Hula Hoops",
+    "name": "Hula Hoops Big Hoops Original Potato Rings Crisps 50g",
+    "description": "Salted Potato Rings",
+    "price": { "price": 0.9, "mealDeal": true }
+  },
+  {
+    "productId": "7007931",
+    "brand": "Sainsbury's",
+    "name": "Sainsbury's Cheese & Tomato Pasta Salad 300g",
+    "description": "Cooked pasta in a tomato and onion dressing with mature Cheddar cheese and red onion",
+    "price": { "price": 2.0, "mealDeal": false }
+  },
+  {
+    "productId": "7754226",
+    "brand": "Pringles",
+    "name": "Pringles Original 40g",
+    "description": "Savoury Snack.",
+    "price": { "price": 0.9, "mealDeal": false }
+  },
+  {
+    "productId": "7558451",
+    "brand": "Hula Hoops",
+    "name": "Hula Hoops Big Hoops BBQ Potato Rings Crisps 50g",
+    "description": "Barbecue Beef Flavour Potato Rings",
+    "price": { "price": 0.9, "mealDeal": false }
+  },
+  {
+    "productId": "7799127",
+    "brand": "Sainsbury's",
+    "name": "Sainsbury's Bacon Sandwich, No Mayo",
+    "description": "Maple cured smoked bacon, tomato sauce and butter on white bread",
+    "price": { "price": 2.0, "mealDeal": true }
+  },
+  {
+    "productId": "7860732",
+    "brand": "Quavers",
+    "name": "Walkers Quavers Cheese Crisp Snacks 34g",
+    "description": "Cheese Flavour Potato Snack.",
+    "price": { "price": 0.9, "mealDeal": true }
+  },
+  {
+    "productId": "6391299",
+    "brand": "Sainsbury's",
+    "name": "Sainsbury's Spicy Chicken Pasta Salad 300g",
+    "description": "Cooked pasta in a tomato and chilli dressing with cooked diced chicken breast",
+    "price": { "price": 2.0, "mealDeal": false }
+  },
+  {
+    "productId": "7799115",
+    "brand": "Sainsbury's",
+    "name": "Sainsbury's Ham Sandwich, No Mayo",
+    "description": "Oak smoked formed British ham with added water on white bread",
+    "price": { "price": 1.25, "mealDeal": false }
+  },
+  {
+    "productId": "7268599",
+    "brand": "Pepsi",
+    "name": "Pepsi Max 600ml",
+    "description": "Carbonated Low Calorie Cola Flavoured Soft Drink with Sweeteners",
+    "price": { "price": 1.3, "mealDeal": true }
+  },
+  {
+    "productId": "7797975",
+    "brand": "Sainsbury's",
+    "name": "Sainsbury's Cheese Sandwich, No Mayo",
+    "description": "Medium mature Cheddar cheese on white bread",
+    "price": { "price": 1.25, "mealDeal": false }
+  },
+  {
+    "productId": "6420089",
+    "brand": "Coca-Cola",
+    "name": "Coca-Cola Zero Sugar 500ml",
+    "description": "Sparkling Low Calorie Soft Drink with Plant Extracts with Sweeteners.",
+    "price": { "price": 1.45, "mealDeal": false }
+  },
+  {
+    "productId": "3547823",
+    "brand": "Innocent",
+    "name": "Innocent Smoothie Magnificent Mango & Passion Fruits 250ml",
+    "description": "This innocent smoothie is a blend of crushed fruit and pure juices.",
+    "price": { "price": 1.8, "mealDeal": true }
+  },
+  {
+    "productId": "6332319",
+    "brand": "Highland Spring",
+    "name": "Highland Spring Still Water Sports Cap 750ml ",
+    "description": "Still Spring Water.",
+    "price": { "price": 0.9, "mealDeal": false }
+  },
+  {
+    "productId": "4020745",
+    "brand": "Ribena",
+    "name": "Ribena Drink Blackcurrant Light 500ml",
+    "description": "No Added Sugar Blackcurrant Juice Drink with sweeteners",
+    "price": { "price": 1.35, "mealDeal": true }
+  },
+  {
+    "productId": "7812466",
+    "brand": "Walkers",
+    "name": "Walkers Max Flame Grilled Steak Crisps 50g",
+    "description": "Sizzling Flame Grilled Steak Flavour Ridged Potato Crisps",
+    "price": { "price": 0.9, "mealDeal": false }
+  },
+  {
+    "productId": "7799572",
+    "brand": "Sainsbury's",
+    "name": "Sainsbury's Seafood Cocktail Sandwich",
+    "description": "Prawns and surimi in a cocktail sauce with cucumber and lettuce on oatmeal bread",
+    "price": { "price": 2.0, "mealDeal": true }
+  },
+  {
+    "productId": "7736185",
+    "brand": "Tropicana",
+    "name": "Tropicana Smooth Orange Juice 300ml",
+    "description": "100% Pure Squeezed Smooth Orange Juice",
+    "price": { "price": 1.5, "mealDeal": true }
+  },
+  {
+    "productId": "7736199",
+    "brand": "Copella",
+    "name": "Copella Cloudy Apple Juice 300ml",
+    "description": "Apple Juice.",
+    "price": { "price": 1.5, "mealDeal": true }
+  },
+  {
+    "productId": "7860742",
+    "brand": "Doritos",
+    "name": "Doritos Cool Original Tortilla Chip Crisps 55g",
+    "description": "Cool Original Flavour Corn Chips",
+    "price": { "price": 0.9, "mealDeal": true }
+  },
+  {
+    "productId": "6034888",
+    "brand": "KP",
+    "name": "Nik Naks Nice 'N' Spicy Crisps 50g",
+    "description": "Nice 'N' Spicy Flavour Corn Snack",
+    "price": { "price": 0.9, "mealDeal": false }
+  },
+  {
+    "productId": "4153955",
+    "brand": "Walkers",
+    "name": "Sensations Thai Sweet Chilli Crisps 40g",
+    "description": "Thai Sweet Chilli Flavour Potato Crisps",
+    "price": { "price": 0.9, "mealDeal": false }
+  },
+  {
+    "productId": "7728610",
+    "brand": "Pepsi",
+    "name": "Pepsi Max Cherry 600ml",
+    "description": "Carbonated Low Calorie Cherry Cola Flavoured Soft Drink with Sweeteners",
+    "price": { "price": 1.3, "mealDeal": true }
+  },
+  {
+    "productId": "6315177",
+    "brand": "San Pellegrino",
+    "name": "San Pellegrino Sparkling Natural Mineral Water Bottle 500ml",
+    "description": "Carbonated Natural Mineral Water",
+    "price": { "price": 1.0, "mealDeal": true }
+  },
+  {
+    "productId": "3547762",
+    "brand": "Innocent",
+    "name": "Innocent Smoothie Seriously Strawberry & Bananas 250ml",
+    "description": "This innocent smoothie is a blend of crushed fruit and pure juices.",
+    "price": { "price": 1.8, "mealDeal": false }
+  },
+  {
+    "productId": "3165515",
+    "brand": "Walkers",
+    "name": "Walkers Max Crisps Paprika 50g",
+    "description": "Punchy Paprika Flavour Ridged Potato Crisps",
+    "price": { "price": 0.9, "mealDeal": false }
+  },
+  {
+    "productId": "3704936",
+    "brand": "Ribena",
+    "name": "Ribena Blackcurrant 500ml",
+    "description": "Blackcurrant Juice Drink with sugar and sweeteners",
+    "price": { "price": 1.35, "mealDeal": true }
+  },
+  {
+    "productId": "7860772",
+    "brand": "Walkers",
+    "name": "Walkers Wotsits Really Cheesy Crisp Snacks 36g",
+    "description": "Really Cheesy Flavour Corn Puffs",
+    "price": { "price": 0.9, "mealDeal": true }
+  },
+  {
+    "productId": "7736188",
+    "brand": "Tropicana",
+    "name": "Tropicana Original Orange Juice With Bits 300ml",
+    "description": "100% Pure Squeezed Orange Juice with Juicy Bits",
+    "price": { "price": 1.5, "mealDeal": false }
+  },
+  {
+    "productId": "7797572",
+    "brand": "Sainsbury's",
+    "name": "Sainsbury's Smoked Ham & Mustard Sandwich",
+    "description": "British oak smoked formed ham with added water, mayonnaise and mustard on oatmeal bread",
+    "price": { "price": 1.9, "mealDeal": false }
+  },
+  {
+    "productId": "6853491",
+    "brand": "Monster Munch",
+    "name": "Mega Monster Munch Pickled Onion Snacks 40g",
+    "description": "Pickled Onion Flavour Baked Corn Snack",
+    "price": { "price": 0.9, "mealDeal": true }
+  },
+  {
+    "productId": "7080393",
+    "brand": "Snack a Jacks",
+    "name": "Snack a Jacks Rice and Corn Cakes Salt & Vinegar 23g",
+    "description": "Salt &amp; Vinegar Flavour Crispy Rice and Corn Snack",
+    "price": { "price": 0.75, "mealDeal": false }
+  },
+  {
+    "productId": "7736206",
+    "brand": "Tropicana",
+    "name": "Tropicana Multivitamin Boost Fruit Juice 300ml",
+    "description": "Juice of 12 Fruits with Added Vitamins C, B1, B2, B6, E &amp; A",
+    "price": { "price": 1.5, "mealDeal": false }
+  },
+  {
+    "productId": "4055334",
+    "brand": "McCoy's",
+    "name": "McCoy's Salt & Vinegar Crisps 47.5g",
+    "description": "Salt &amp; Malt Vinegar Flavour Potato Crisps",
+    "price": { "price": 0.9, "mealDeal": false }
+  },
+  {
+    "productId": "3554562",
+    "brand": "Jacob's",
+    "name": "Jacob's Mini Cheddars Original Crisps 50g",
+    "description": "Cheese Snack Biscuits",
+    "price": { "price": 0.9, "mealDeal": false }
+  },
+  {
+    "productId": "7860749",
+    "brand": "Doritos",
+    "name": "Doritos Tangy Cheese Tortilla Chip Crisps 55g",
+    "description": "Tangy Cheese Flavour Corn Chips",
+    "price": { "price": 0.9, "mealDeal": true }
+  },
+  {
+    "productId": "7860762",
+    "brand": "Doritos",
+    "name": "Doritos Chilli Heatwave Tortilla Chip Crisps 48g",
+    "description": "Chilli Heatwave Flavour Corn Chips",
+    "price": { "price": 0.9, "mealDeal": true }
+  },
+  {
+    "productId": "7774944",
+    "brand": "Skips",
+    "name": "Skips Prawn Cocktail 40g",
+    "description": "Prawn Cocktail Flavour Tapioca Snack",
+    "price": { "price": 0.9, "mealDeal": false }
+  },
+  {
+    "productId": "7268374",
+    "brand": "Pepsi",
+    "name": "Diet Pepsi 600ml",
+    "description": "Carbonated Low Calorie Cola Flavoured Soft Drink with Sweeteners",
+    "price": { "price": 1.3, "mealDeal": true }
+  },
+  {
+    "productId": "6821961",
+    "brand": "Walkers",
+    "name": "Walkers Baked Cheese & Onion Crisps 37.5g",
+    "description": "Cheese &amp; Onion Flavour Baked Potato Snack",
+    "price": { "price": 0.75, "mealDeal": false }
+  },
+  {
+    "productId": "7599377",
+    "brand": "popchips",
+    "name": "Popchips Barbeque Potato Chip Crisps 23g",
+    "description": "Barbeque flavour popped potato snacks",
+    "price": { "price": 0.75, "mealDeal": true }
+  },
+  {
+    "productId": "7428436",
+    "brand": "Walkers",
+    "name": "Walkers Squares Salt & Vinegar Snacks 27.5g",
+    "description": "Salt &amp; Vinegar Flavour Potato Snack.",
+    "price": { "price": 0.75, "mealDeal": true }
+  },
+  {
+    "productId": "2765136",
+    "brand": "IRN-BRU",
+    "name": "IRN-BRU 500ml",
+    "description": "Sparkling Flavoured Soft Drink with Sugar and Sweeteners",
+    "price": { "price": 1.25, "mealDeal": false }
+  },
+  {
+    "productId": "7860921",
+    "brand": "Propercorn",
+    "name": "Propercorn Sweet & Salty Popcorn 30g",
+    "description": "Sweet and salty popcorn.",
+    "price": { "price": 0.9, "mealDeal": false }
+  },
+  {
+    "productId": "7781085",
+    "brand": "Walkers",
+    "name": "Walkers Max Cheese & Onion Crisps 50g",
+    "description": "Chunky Cheese &amp; Onion Flavour Ridged Potato Crisps",
+    "price": { "price": 0.9, "mealDeal": true }
+  },
+  {
+    "productId": "7067801",
+    "brand": "Snack a Jacks",
+    "name": "Sunbites Sweet Chilli Multigrain Snacks 28g",
+    "description": "Sun Ripened Sweet Chilli Flavour Wholegrain Snack",
+    "price": { "price": 0.75, "mealDeal": false }
+  },
+  {
+    "productId": "6821965",
+    "brand": "Walkers",
+    "name": "Walkers Baked Ready Salted Crisps 37.5g",
+    "description": "Sea Salt Flavour Baked Potato Snack",
+    "price": { "price": 0.75, "mealDeal": true }
+  },
+  {
+    "productId": "7754222",
+    "brand": "Pringles",
+    "name": "Pringles Sour Cream & Onion 40g",
+    "description": "Sour Cream and Onion Flavour Savoury Snack.",
+    "price": { "price": 0.9, "mealDeal": true }
+  },
+  {
+    "productId": "7070577",
+    "brand": "Tyrrells",
+    "name": "Tyrrells Mixed Root Vegetable Crisps 40g",
+    "description": "Mixed root vegetable crisps with sea salt.",
+    "price": { "price": 0.9, "mealDeal": false }
+  },
+  {
+    "productId": "7797950",
+    "brand": "Sainsbury's",
+    "name": "Sainsbury's Chicken & Sweetcorn Sandwich",
+    "description": "Chicken, sweetcorn and black pepper mayonnaise on malted bread",
+    "price": { "price": 2.0, "mealDeal": false }
+  },
+  {
+    "productId": "7080498",
+    "brand": "Snack a Jacks",
+    "name": "Snack a Jacks Rice Cakes Sweet Chilli 23g ",
+    "description": "Sweet Chilli Flavour Crispy Rice and Corn Snack",
+    "price": { "price": 0.75, "mealDeal": true }
+  },
+  {
+    "productId": "7858890",
+    "brand": "Innocent",
+    "name": "Innocent Bubbles Sparkling Apple & Berry 330ml",
+    "description": "Pure pressed apples, berries grapes &amp; mandarins with sparkling spring water &amp; nothing else",
+    "price": { "price": 1.5, "mealDeal": false }
+  },
+  {
+    "productId": "7267599",
+    "brand": "Juicy Water",
+    "name": "Juicy Water Raspberries & Blackcurrants Juice Drink 420ml",
+    "description": "Juice drink made with a blend of juices (both from concentrate &amp; not from concentrate) and spring water",
+    "price": { "price": 1.4, "mealDeal": false }
+  },
+  {
+    "productId": "6577477",
+    "brand": "Juicy Water",
+    "name": "Juicy Water Lemons & Limes Juice Drink 420ml",
+    "description": "Juice drink made with a blend of juices (both from concentrate &amp; not from concentrate) and spring water",
+    "price": { "price": 1.4, "mealDeal": true }
+  },
+  {
+    "productId": "7749442",
+    "brand": "Innocent",
+    "name": "Innocent Bubbles Sparkling Lemon & Lime 330ml",
+    "description": "Pure pressed lemons, limes, apples &amp; grapes with sparkling spring water &amp; nothing else",
+    "price": { "price": 1.5, "mealDeal": false }
+  },
+  {
+    "productId": "7606067",
+    "brand": "Tyrrells",
+    "name": "Tyrrells Sweet Chilli & Red Pepper Crisps 40g",
+    "description": "Sweet chilli &amp; red pepper seasoned potato crisps.",
+    "price": { "price": 0.9, "mealDeal": true }
+  },
+  {
+    "productId": "7811820",
+    "brand": "IRN-BRU",
+    "name": "IRN-BRU Xtra No Sugar 500ml",
+    "description": "Sparkling Low Calorie Flavoured Soft Drink with Sweeteners",
+    "price": { "price": 1.25, "mealDeal": false }
+  },
+  {
+    "productId": "2573205",
+    "brand": "Seabrook",
+    "name": "Seabrook Crinkle Cut Crisps Sea Salt 31.8g",
+    "description": "Sea Salted Potato Crisps",
+    "price": { "price": 0.75, "mealDeal": false }
+  },
+  {
+    "productId": "7860821",
+    "brand": "Walkers",
+    "name": "Walkers Max Flamin Hot 50g",
+    "description": "Fiercely Flamin' Hot Flavour Ridged Potato Crisps",
+    "price": { "price": 0.9, "mealDeal": false }
+  },
+  {
+    "productId": "3546376",
+    "brand": "Real",
+    "name": "Real Hand Cooked Roast Crisps 35g",
+    "description": "Roast Ox Flavour Hand Cooked Potato Crisps",
+    "price": { "price": 0.65, "mealDeal": false }
+  },
+  {
+    "productId": "7428442",
+    "brand": "Walkers",
+    "name": "Walkers Squares Cheese & Onion Snacks +25% 27.5g",
+    "description": "Cheese &amp; Onion Flavour Potato Snack.",
+    "price": { "price": 0.75, "mealDeal": true }
+  },
+  {
+    "productId": "2765358",
+    "brand": "IRN-BRU",
+    "name": "IRN-BRU Sugar Free 500ml ",
+    "description": "Sparkling Low Calorie Flavoured Soft Drink with Sweeteners",
+    "price": { "price": 1.25, "mealDeal": true }
+  },
+  {
+    "productId": "7994071",
+    "brand": "Propercorn",
+    "name": "PROPERCHIPS Barbecue Lentil Chips 20g",
+    "description": "Lentil chips with a barbecue seasoning.",
+    "price": { "price": 0.85, "mealDeal": false }
+  },
+  {
+    "productId": "6383367",
+    "brand": "Kettle",
+    "name": "Kettle Chips Sea Salt & Balsamic Vinegar Crisps 40g",
+    "description": "Hand Cooked Potato Chips with Sea Salt and \"Aceto Balsamico Di Modena IGP\".",
+    "price": { "price": 0.9, "mealDeal": false }
+  },
+  {
+    "productId": "2573199",
+    "brand": "Seabrook",
+    "name": "Seabrook Crinkle Cut Crisps Prawn Cocktail 31.8g",
+    "description": "Prawn Cocktail Flavour Potato Crisps",
+    "price": { "price": 0.75, "mealDeal": false }
+  },
+  {
+    "productId": "7965495",
+    "brand": "Golden Wonder",
+    "name": "Golden Wonder Tomato Ketchup 32.5g",
+    "description": "Tomato Ketchup Flavour Potato Crisps",
+    "price": { "price": 0.65, "mealDeal": true }
+  },
+  {
+    "productId": "7928830",
+    "brand": "Well & Truly",
+    "name": "Well & Truly Crunchy Really Cheesy Baked Corn Snacks 30g",
+    "description": "",
+    "price": { "price": 0.8, "mealDeal": true }
+  },
+  {
+    "productId": "7928803",
+    "brand": "Well & Truly",
+    "name": "Well & Truly Crunchy Smokey Paprika Baked Corn Snacks 30g",
+    "description": "",
+    "price": { "price": 0.8, "mealDeal": false }
+  },
+  {
+    "productId": "7866303",
+    "brand": "Off The Eaten Path",
+    "name": "Off the Eaten Path Pea & Pinto Caramelised Onion & Balsamic Vinegar Bean Sticks 23g",
+    "description": "A mix of Pinto Bean, Green Pea, and White Bean Potato Sticks with Caramelised Onion &amp; Balsamic Vinegar Flavour.",
+    "price": { "price": 1.0, "mealDeal": false }
+  },
+  {
+    "productId": "7797598",
+    "brand": "Sainsbury's",
+    "name": "Sainsbury's Chicken Wth Pork, Sage & Onion Stuffing Sandwich",
+    "description": "Chicken with mayonnaise and British pork, sage and onion stuffing on white bread",
+    "price": { "price": 2.0, "mealDeal": false }
+  },
+  {
+    "productId": "7797580",
+    "brand": "Sainsbury's",
+    "name": "Sainsbury's Chicken Mayo Sandwich",
+    "description": "",
+    "price": { "price": 1.9, "mealDeal": false }
+  },
+  {
+    "productId": "7795658",
+    "brand": "Ribena",
+    "name": "Ribena Light Pineapple & Passion Frut 500ml",
+    "description": "No Added Sugar Pineapple, Orange and Passion Fruit Juice Drink with Sweeteners",
+    "price": { "price": 1.35, "mealDeal": false }
+  },
+  {
+    "productId": "7503375",
+    "brand": "Metcalfe's",
+    "name": "Metcalfe's Charity Popcorn Sea Salt 17g",
+    "description": "Sea salt flavoured popped corn.",
+    "price": { "price": 0.9, "mealDeal": false }
+  },
+  {
+    "productId": "2573281",
+    "brand": "Seabrook",
+    "name": "Seabrook Crinkle Cut Crisps Salt & Vinegar 31.8g",
+    "description": "Sea Salt &amp; Vinegar Flavour Potato Crisps",
+    "price": { "price": 0.75, "mealDeal": true }
+  },
+  {
+    "productId": "2573212",
+    "brand": "Seabrook",
+    "name": "Seabrook Crinkle Cut Crisps Cheese & Onion 31.8g",
+    "description": "Cheese &amp; Onion Flavour Potato Crisps",
+    "price": { "price": 0.75, "mealDeal": false }
+  },
+  {
+    "productId": "8012367",
+    "brand": "Soreen",
+    "name": "Soreen Malt Loaf Buttered Slices x2 45g",
+    "description": "",
+    "price": { "price": 0.8, "mealDeal": false }
+  },
+  {
+    "productId": "8007117",
+    "brand": "Sainsbury's",
+    "name": "Sainsbury's Mini Indian Selection & Dip 94g",
+    "description": "",
+    "price": { "price": 1.2, "mealDeal": true }
+  },
+  {
+    "productId": "7991435",
+    "brand": "Sainsbury's",
+    "name": "Sainsbury's On the Go Beetroot & Turmeric Wrap, Limited Edition",
+    "description": "",
+    "price": { "price": 3.0, "mealDeal": true }
+  },
+  {
+    "productId": "7866313",
+    "brand": "Off The Eaten Path",
+    "name": "Off the Eaten Path Salted Rice & Pea Chips 27g",
+    "description": "",
+    "price": { "price": 1.0, "mealDeal": false }
+  },
+  {
+    "productId": "7797590",
+    "brand": "Sainsbury's",
+    "name": "Sainsbury's Cheese & Tomato Sandwich",
+    "description": "",
+    "price": { "price": 1.25, "mealDeal": true }
+  },
+  {
+    "productId": "7552083",
+    "brand": "Walkers",
+    "name": "Walkers Roast Chicken Crisps 32.5g",
+    "description": "",
+    "price": { "price": 0.75, "mealDeal": true }
+  },
+  {
+    "productId": "7552077",
+    "brand": "Walkers",
+    "name": "Walkers Ready Salted Crisps 32.5g",
+    "description": "Ready Salted Potato Crisps",
+    "price": { "price": 0.75, "mealDeal": false }
+  },
+  {
+    "productId": "7552058",
+    "brand": "Walkers",
+    "name": "Walkers Salt & Vinegar Crisps 32.5g",
+    "description": "Salt and Vinegar Flavour Potato Crisps",
+    "price": { "price": 0.75, "mealDeal": true }
+  },
+  {
+    "productId": "7267597",
+    "brand": "Juicy Water",
+    "name": "Juicy Water Oranges & Lemons Juice Drink 420ml",
+    "description": "Juice drink made with a blend of juices (both from concentrate &amp; not from concentrate) and spring water",
+    "price": { "price": 1.4, "mealDeal": true }
+  },
+  {
+    "productId": "6972907",
+    "brand": "Ribena",
+    "name": "Ribena Drink Strawberry 500ml",
+    "description": "No Added Sugar Strawberry Juice Drink with sweeteners",
+    "price": { "price": 1.35, "mealDeal": false }
+  },
+  {
+    "productId": "6391305",
+    "brand": "Sainsbury's",
+    "name": "Sainsbury's Tuna & Sweetcorn Pasta Salad 300g",
+    "description": "Pasta in a mayonnaise dressing with tuna, sweetcorn and red onions",
+    "price": { "price": 2.0, "mealDeal": true }
+  },
+  {
+    "productId": "3525289",
+    "brand": "McCoy's",
+    "name": "McCoy's Flame Grilled Steak Crisps 47.5g",
+    "description": "Flame Grilled Steak Flavour Potato Crisps",
+    "price": { "price": 0.9, "mealDeal": true }
+  },
+  {
+    "productId": "7991358",
+    "brand": "Sainsbury's",
+    "name": "Sainsbury's On the Go Pink Lady Apple Slices & Grapes Meal Deal 80g",
+    "description": "Pink lady\u00ae apple slices & grapes.",
+    "price": { "price": 0.6, "mealDeal": false }
+  }
+]
